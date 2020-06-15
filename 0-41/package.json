@@ -1,0 +1,22 @@
+{
+  "name": "web-dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "browserify script.js > bundle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JoseM1020/web-code.git"
+  },
+  "author": "Jose Muniz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JoseM1020/web-code/issues"
+  },
+  "homepage": "https://github.com/JoseM1020/web-code#readme",
+  "dependencies": {
+    "lodash": "^4.17.15"
+  }
+}
